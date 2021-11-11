@@ -38,7 +38,7 @@ $ tracex 127.0.0.1
 
 
 ## Screenshot
-![photo]()
+![photo](https://raw.githubusercontent.com/MrHacker-X/TraceX/main/.img/tracex.jpg)
 
 ## Warning:
 + We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
