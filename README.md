@@ -14,12 +14,12 @@
 
 ## Installation
 
-`apt-get update -y`
-`apt-get upgrade -y`
-`apt-get install git -y`
-`git clone https://github.com/MrHacker-X/TraceX.git/`
-`cd TraceX`
-`chmod +x *`
++ `apt-get update -y`
++ `apt-get upgrade -y`
++ `apt-get install git -y`
++ `git clone https://github.com/MrHacker-X/TraceX.git/`
++ `cd TraceX`
++ `chmod +x *`
 + Now If you're using Termux then enter command `./setup_trmx` else just type command `./setup` and press ENTER.
 + When setup is complete then you can trace any types of IP address by command `tracex <Target IP>`
 
