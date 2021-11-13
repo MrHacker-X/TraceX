@@ -32,7 +32,7 @@ mv .traced /bin/tracex
 chmod +x /bin/tracex
 cd ..
 mv TraceX $HOME/.alex
-
+sleep 3.0
 
 clear
 banner
