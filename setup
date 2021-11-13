@@ -28,10 +28,11 @@ apt-get install python -y
 pip install requests
 echo -e "\033[1;92m[\033[1;97m*\033[1;92m] Setting up environment:"
 mkdir $HOME/.alex
+mv .traced /bin/tracex
+chmod +x /bin/tracex
 cd ..
 mv TraceX $HOME/.alex
-echo "python $HOME/.alex/TraceX/.tracex $1" >> /bin/tracex
-chmod +x /bin/tracex
+
 
 clear
 banner
